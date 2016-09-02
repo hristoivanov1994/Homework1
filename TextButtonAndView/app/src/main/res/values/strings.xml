@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TextButtonAndView</string>
+    <string name="idtext">Hello World!</string>
+    <string name="button1">button1</string>
+    <string name="button2">button2</string>
+    <string name="button3">button3</string>
+    <string name="title_activity_button_info">ButtonInfo</string>
+    <string name="buttonInfotxt">Large Text</string>
+    <string name="buttonInfo">Large Text</string>
+</resources>
